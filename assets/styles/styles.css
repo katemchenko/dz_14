@@ -40,8 +40,8 @@ body{
 	max-width: 1300px;
 	padding: 0 10px;
 	margin: 0 auto;
-			background: pink;/* ******/
 }
+
 .d-bl{
 	display: block;
 }
@@ -110,8 +110,8 @@ body{
 
 .header__line-phone{
 	grid-area: header__line-phone;
-		font-size: 16px;
-		padding: 20px 28px;
+	font-size: 16px;
+	padding: 20px 28px;
 }
 
 .header__line-button{
@@ -222,7 +222,6 @@ body{
 }
 
 .intro__line{
-	/*	border: 1px solid #00868A;*/
 	padding: 30px 0;
 	display: grid;	
 	grid-template-columns: 5fr 1fr; 
@@ -254,7 +253,6 @@ body{
 }
 
 .intro__bloc{
-	/*	border: 1px solid #00868A;*/
 	display: grid;	
 	grid-template-columns:  1fr 1fr; 
 	grid-template-areas: 
@@ -310,8 +308,7 @@ body{
 			width: 60px;
 			height: 50px;
 			background: url("../images/btn_arrow-right.png") no-repeat center;
-		display: inline-block;
-		
+			display: inline-block;
 		}
 
 .intro__bloc-img{
