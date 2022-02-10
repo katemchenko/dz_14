@@ -40,7 +40,7 @@ body{
 	max-width: 1300px;
 	padding: 0 10px;
 	margin: 0 auto;
-		/*	background: pink; ******/
+			background: pink;/* ******/
 }
 
 .img{
@@ -272,7 +272,7 @@ body{
 	display: none;
 }
 
-  .menu__menusub-link{
+  .line-contacts__menu-link{
 	background: #fff;
 	color: #000;
 	border: 1px solid rgba(79, 191, 165, .2);
@@ -365,7 +365,6 @@ grid-template-rows:  1fr 230px;
 .patent__bloc-certificate{
 	grid-area: intro__bloc-img;
 	padding: 40px 0 0 40px;
-	background-color: #fff;
 	position: relative;
 }
 	.bloc-certificate-txt{
